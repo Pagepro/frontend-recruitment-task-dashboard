@@ -13,10 +13,7 @@ Your job is to code a simple dashboard. The source file is an `.xd` file. To ope
 
 ![Task preview](https://github.com/Pagepro/frontend-recruitment-task-dashboard/blob/master/dashboard_preview.png?raw=true)
 
-It has been designed created by Kasper Christensen and can be found on [Dribbble].(https://dribbble.com/shots/4857631-Chatbot-UI-Kit-Freebie-xd)
- 
-
-
+It has been designed created by Kasper Christensen and can be found on [Dribbble](https://dribbble.com/shots/4857631-Chatbot-UI-Kit-Freebie-xd).
 
 ## Must-have:
 
