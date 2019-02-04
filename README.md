@@ -58,7 +58,7 @@ It has been designed created by Kasper Christensen and can be found on [Dribbble
 1. Validity of the HTML and CSS (Sass) markup - make sure to run your HTML code by the [W3C validator](https://validator.w3.org/).
 2. Consistency in the elements naming.
 3. Reusability of the elements and the styles.
-4. Code repetitions and reusability.
+4. Code repetitions and reusability (keep your code [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)).
 5. Esthetics sense based on the custom solutions (animations, transitions, etc.).
 6. Attention to detail.
 7. Code optimization and the solution&#39;s performance.
